@@ -1,0 +1,1 @@
+# Hello all, this is the code for the clone I (Akshat) prepared of Amazon!
