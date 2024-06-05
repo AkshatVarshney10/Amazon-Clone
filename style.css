@@ -18,7 +18,7 @@
     width:100px;
 }
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("pictures/amazon_logo.png");
     background-size: cover;
     height:50px;
     width:100%
@@ -127,7 +127,7 @@
 
 /** hero section **/
 .hero-section{
-    background-image: url("h2.jpg");
+    background-image: url("pictures/h2.jpg");
     background-size: cover;
     height:350px;
     display:flex;
@@ -360,7 +360,7 @@ ul a{
     margin-top:15px;
     width:100%;
     font-size: 0.85rem;
-    text-align: justify;
+    text-align: center;
 }
 .sign button{
     font-weight: 700;
